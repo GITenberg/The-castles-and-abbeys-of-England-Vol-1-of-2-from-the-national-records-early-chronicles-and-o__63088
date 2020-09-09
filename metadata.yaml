@@ -1,0 +1,35 @@
+_repo: The-castles-and-abbeys-of-England-Vol-1-of-2-from-the-national-records-early-chronicles-and-o__63088
+_version: 0.0.1
+contributor:
+  illustrators:
+  - agent_name: Bartlett, W.H. (William Henry)
+    gutenberg_agent_id: '52276'
+    url: http://www.gutenberg.org/2009/agents/52276
+  - agent_name: Allom, Thomas
+    birthdate: 1804
+    deathdate: 1872
+    gutenberg_agent_id: '45492'
+    url: http://www.gutenberg.org/2009/agents/45492
+  - agent_name: Archer, John Wykeham
+    gutenberg_agent_id: '52275'
+    url: http://www.gutenberg.org/2009/agents/52275
+creator:
+  author:
+    agent_name: Beattie, William
+    gutenberg_agent_id: '52274'
+    url: http://www.gutenberg.org/2009/agents/52274
+description: ''
+gutenberg_issued: '2020-08-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63088'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The castles and abbeys of England; Vol. 1 of 2
+
+  from the national records, early chronicles, and other standard authors'
+url: http://www.gutenberg.org/ebooks/63088
