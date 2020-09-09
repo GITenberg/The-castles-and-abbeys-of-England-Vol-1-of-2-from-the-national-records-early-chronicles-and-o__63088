@@ -1,5 +1,5 @@
 _repo: The-castles-and-abbeys-of-England-Vol-1-of-2-from-the-national-records-early-chronicles-and-o__63088
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrators:
   - agent_name: Bartlett, W.H. (William Henry)
@@ -13,12 +13,17 @@ contributor:
   - agent_name: Archer, John Wykeham
     gutenberg_agent_id: '52275'
     url: http://www.gutenberg.org/2009/agents/52275
+covers:
+- cover_type: archival
+  image_path: 63088-h/images/cover.jpg
 creator:
   author:
     agent_name: Beattie, William
     gutenberg_agent_id: '52274'
     url: http://www.gutenberg.org/2009/agents/52274
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63088#The-castles-and-abbeys-of-England-Vol-1-of-2-from-the-national-records-early-chronicles-and-o_
 gutenberg_issued: '2020-08-31'
 gutenberg_type: Text
 identifiers:
